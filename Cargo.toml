@@ -61,7 +61,7 @@ nix = "=0.26.2"
 winapi = "=0.3.9"
 windows-sys = { version = "0.48.0", features = ["Win32_Foundation", "Win32_Media", "Win32_Storage_FileSystem"] }
 
-# webcpu
+# webgpu
 wgpu-core = "0.21.1"
 wgpu-types = "0.20"
 
